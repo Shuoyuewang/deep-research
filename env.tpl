@@ -1,5 +1,5 @@
 # (Optional) Server API Access Password for enhanced security
-ACCESS_PASSWORD=
+ACCESS_PASSWORD=21821411122aA.
 
 # (Deprecated) Server-side Gemini API Proxy URL. Default, `https://generativelanguage.googleapis.com`
 API_PROXY_BASE_URL=
